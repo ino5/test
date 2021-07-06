@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="oracle.java.mvc23e">
+	<logger name="com.oracle.mvc23e">
 		<level value="info" />
 	</logger>
 	
